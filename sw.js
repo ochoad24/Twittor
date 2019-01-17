@@ -1,7 +1,7 @@
 //imports
 importScripts('js/sw-utils.js');
 
-const STATIC_CACHE_NAME='static-v1';
+const STATIC_CACHE_NAME='static-v3';
 const DYNAMIC_CACHE_NAME='dynamic-v1';
 const INMUTABLE_CACHE_NAME='inmutable-v1';
 
